@@ -4,4 +4,5 @@ public class Test {
 		// TODO Auto-generated method stub
 		System.out.println("Demo test under new assignment");
 	}
+}
 
